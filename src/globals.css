@@ -1,0 +1,11 @@
+/* .dropdown:hover>.dropdown-menu {
+    display: block;
+}
+
+.dropdown-item:hover>.dropdown-item{
+    display: block;
+} */
+
+.nav-sub-heading{
+    font-size: 10px;
+}
